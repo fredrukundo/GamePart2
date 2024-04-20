@@ -1,5 +1,5 @@
 # GamePart2
-it's time for building something fun part 2.
+it's time for building something fun part 2.  
 i have added so many features compared to the first part of this Game.
 
 ## how to compile
