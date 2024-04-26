@@ -7,7 +7,7 @@ This project is a simple 3D maze game inspired by the classic Wolfenstein 3D gam
 - Textured walls
 - Player movement
 - Minimap display
-- Basic enemy AI (if implemented)
+- Basic enemy(if implemented)
 
 ## Prerequisites
 
